@@ -1,0 +1,31 @@
+/**
+ *Template Name: partyTheme
+ *Template: twentyseventeen
+ */
+
+ #brand
+ {
+     background-image: url(img/logoCkl.png);
+     width: 200px;
+     height: 100px;
+     background-size: 200px 100px;
+ }
+
+ #partenaire
+ {
+     height: 900px;
+ }
+
+ a
+ {
+     text-decoration: none;
+ }
+
+ #footCkl
+ {
+     border-top: 1px solid grey;
+     background-image: url(img/footCkl.png);
+     height: 500px;
+     background-repeat: no-repeat;
+     background-position: center;
+ }
